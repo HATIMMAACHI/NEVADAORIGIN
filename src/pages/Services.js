@@ -3,7 +3,6 @@ import { motion } from "framer-motion";
 import { Check, Star, Zap, Crown, Package, ArrowRight } from "lucide-react";
 
 const Services = () => {
-  const [selectedPlan, setSelectedPlan] = useState("Pro");
 
   const services = [
     {
