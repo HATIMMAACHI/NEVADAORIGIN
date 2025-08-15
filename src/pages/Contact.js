@@ -8,7 +8,6 @@ import {
   Instagram,
   Twitter,
   Linkedin,
-  MessageSquare,
   Send,
   Check,
   Clock,
